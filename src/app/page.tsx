@@ -4,7 +4,7 @@ import ChildrenExample from "./ChildrenExample";
 import ContextExample from "./ContextExample";
 import FormExample from "./FormExample";
 import UseEffectExample from "./UseEffectExample";
-import { ThemeContext } from "./themeContext";
+import { ThemeContext } from "./ThemeContext";
 
 export default function Home() {
   return (
